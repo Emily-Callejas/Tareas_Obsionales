@@ -1,6 +1,8 @@
 # Gitflow
 
 ![](https://ws001.sspa.juntadeandalucia.es/unifica/documents/1912026/21060440/image2017-3-22+12-25-43.png/a252c84b-b427-41bf-9b81-b0dd971757b4?t=1497250956690)
+
+
 Gitflow Workflow es un diseño de flujo de trabajo Git; es ideal para proyectos que tienen un ciclo de lanzamiento programado, ademas de ser un flujo de trabajo que no agrega ningún concepto o comando nuevo más allá de lo basico, sin embargo, asigna roles muy específicos a diferentes ramas y define cómo y cuándo deben interactuar.
 
 ## Ramas principales
